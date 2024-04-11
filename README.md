@@ -1,2 +1,2 @@
-# Ejemplo-Lab-Jueves
-Repositorio de practica.
+[!NOTE]
+Clase repaso MDD
