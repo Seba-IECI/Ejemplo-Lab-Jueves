@@ -1,2 +1,2 @@
-[!NOTE]
-Clase repaso MDD
+> [!NOTE]
+> Clase repaso MDD
